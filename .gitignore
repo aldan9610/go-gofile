@@ -1,0 +1,5 @@
+# build artifacts
+/gofile
+/gofile.exe
+/gofile-linux
+*.zip
